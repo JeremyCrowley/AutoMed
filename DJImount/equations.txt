@@ -1,0 +1,4 @@
+"mountwidth" = 99.75mm
+"mountlength" = 104mm
+"framwidth" = 1.52mm
+"frameclipwid" = 8.5mm
