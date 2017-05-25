@@ -3,6 +3,7 @@
 "innerclipwidth" = 11.5mm
 "innerframewidth" = 99.18mm
 "framelength" = 103.2mm
+"frameextralength" = 39mm
 "clipwidth" = 3mm
 "cliplength" = 6mm
 "clipheight" = 8mm
