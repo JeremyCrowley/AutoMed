@@ -9,3 +9,5 @@
 "clipheight" = 8mm
 "basethickness" = 5mm
 "framethickness" = 1.6mm
+"batterylength" = 145mm
+"batterywidth" = 51mm
