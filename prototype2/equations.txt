@@ -1,0 +1,13 @@
+﻿"leftedgewidth" = 8.5mm
+"rightedgewidth" = 10.75mm
+"innerclipwidth" = 11.5mm
+"innerframewidth" = 99.18mm
+"framelength" = 103.2mm
+"frameextralength" = 39mm
+"clipwidth" = 3mm
+"cliplength" = 6mm
+"clipheight" = 8mm
+"basethickness" = 5mm
+"framethickness" = 1.6mm
+"batterylength" = 145mm
+"batterywidth" = 51mm
