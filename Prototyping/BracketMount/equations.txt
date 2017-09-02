@@ -2,7 +2,7 @@
 "rightedgewidth" = 10.75mm
 "innerclipwidth" = 11.5mm
 "innerframewidth" = 99.18mm
-"framelength" = 103.2mm
+"framelength" = 118.4mm
 "frameextralength" = 39mm
 "clipwidth" = 3mm
 "cliplength" = 6mm
